@@ -11,3 +11,5 @@ The EPROM Emulator was constructed on a Vector Prototyping board using wire-wrap
 <p align="center">EPROM Emulator</p>
 <p align="center"><img src="/images/EPROM Emulator Schematic-1.png"/>
 <p align="center">EPROM Emulator Schematic</p>
+<p align="center"><img src="/images/EPROM Emulator.png"/>
+<p align="center">EPROM Emulator</p>
